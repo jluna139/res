@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6079de54.chunk.css",
+    "main.js": "/static/js/main.9505e0bf.chunk.js",
+    "main.js.map": "/static/js/main.9505e0bf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f585999.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f585999.js.map",
+    "static/css/2.f94bdb3a.chunk.css": "/static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.5453b63d.chunk.js": "/static/js/2.5453b63d.chunk.js",
+    "static/js/2.5453b63d.chunk.js.map": "/static/js/2.5453b63d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f94bdb3a.chunk.css.map": "/static/css/2.f94bdb3a.chunk.css.map",
+    "static/css/main.6079de54.chunk.css.map": "/static/css/main.6079de54.chunk.css.map",
+    "static/js/2.5453b63d.chunk.js.LICENSE.txt": "/static/js/2.5453b63d.chunk.js.LICENSE.txt",
+    "static/media/Color logo - no background.131b0dcd.svg": "/static/media/Color logo - no background.131b0dcd.svg",
+    "static/media/UploadIcon.svg": "/static/media/UploadIcon.469126df.svg",
+    "static/media/c.a776a608.svg": "/static/media/c.a776a608.svg",
+    "static/media/figma-1.72ff3502.svg": "/static/media/figma-1.72ff3502.svg",
+    "static/media/gre_research_validity_data.49ee538b.pdf": "/static/media/gre_research_validity_data.49ee538b.pdf",
+    "static/media/logo-javascript.00f3e5cf.svg": "/static/media/logo-javascript.00f3e5cf.svg",
+    "static/media/python-5.e6d7dc73.svg": "/static/media/python-5.e6d7dc73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f585999.js",
+    "static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.5453b63d.chunk.js",
+    "static/css/main.6079de54.chunk.css",
+    "static/js/main.9505e0bf.chunk.js"
+  ]
+}
